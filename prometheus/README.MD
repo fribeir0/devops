@@ -7,7 +7,6 @@
 ## 1. Pré-requisitos
 
 - Acesso root ou usuário com permissão `sudo`
-- Ferramentas: `wget`, `tar`, `systemd`
 
 ---
 
@@ -129,7 +128,7 @@ http://<IP_DO_SERVIDOR>:9090
 
 ### Dicas
 
-- Substitua `PROM_VERSION` pela última versão disponível.
+- Substitua `PROM_VERSION` pela última versão disponível, ou desejada.
 - Verifique as opções de configuração em [`prometheus.yml`](https://prometheus.io/docs/prometheus/latest/configuration/configuration/).
 
 ---
